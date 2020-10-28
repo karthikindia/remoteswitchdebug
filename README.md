@@ -1,2 +1,2 @@
 # remoteswitchdebug
-cisco remote switch debug
+Cisco Remote Switch Debug
